@@ -92,4 +92,30 @@ img {
     float: none;
     width: 100%;
   }
+
+  .container h1 {
+    font-size: 35px;
+  }
+
+  .container h3 {
+    font-size: 25px;
+  }
+
+  .row {
+    margin-top: 50px;
+  }
+
+  #steps .central {
+    margin: 15px 0;
+  }
+
+  #why .row .first,
+  #why .row .second,
+  #why .row .third {
+    margin-top: 50px;
+  }
+
+  #lezioni, #steps, #why {
+    font-size: 18px;
+  }
 }
