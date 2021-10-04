@@ -123,15 +123,5 @@ img {
 @media screen and (min-width: 768px) and (max-width: 1170px) {
   .container {
     display: flex;
+    }
   }
-
-  #lezioni .row {
-    width: 100%;
-  }
-
-  #steps .row .left,
-  #steps .row .right, 
-  #steps .row .central {
-    text-align: center;
-  }
-}
