@@ -86,10 +86,6 @@ img {
     width: 100%;
   }
 
-  .container {
-    display: flex;
-  }
-
   #steps .row .left,
   #steps .row .right, 
   #steps .row .central {
